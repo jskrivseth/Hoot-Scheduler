@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Scheduler.AboutHoot" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIAAAAgAACAgCAUAAACAAEADAAAAEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>AboutHoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduler.DateTimePopup">
+    <Position X="11.75" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAEAAACAAEBCAAAAAAEAAACAAMAAAAA=</HashCode>
+      <FileName>DateTimePopup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduler.PromptBox">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAkAAACAAEACAAAAAAEAAAACAEAAAAA=</HashCode>
+      <FileName>PromptBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduler.ScheduledEvent" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EQBgIBCQAQABAYAAAAIBoAgEgABIAEAgQCABMAIAACA=</HashCode>
+      <FileName>ScheduledEvent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Scheduler.Scheduler" Collapsed="true">
+    <Position X="11" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>lBTKNkMRAG0ABCJDs2GP4kAGuJpa8chgAyot/QIDFGQ=</HashCode>
+      <FileName>Scheduler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduler.TreeViewSerializer">
+    <Position X="15.75" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgIAAAAAAAAEABAAAAAAAAAAAAEAAgAAAAQAAAA=</HashCode>
+      <FileName>TreeViewSerializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheduler.WritingScheduleProgressDialog">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WritingScheduleProgressDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

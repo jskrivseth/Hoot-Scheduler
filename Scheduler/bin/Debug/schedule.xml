@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventsList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ScheduledEvent>
+    <StartPlay>2010-04-26 21:18:00</StartPlay>
+    <StartRecord>2010-04-26 21:18:05</StartRecord>
+    <PlayDuration>5</PlayDuration>
+    <RecordDuration>15</RecordDuration>
+    <AudioFile>Windows Shutdown.wav</AudioFile>
+    <AudioFileFullPath>C:\Windows\Media\Windows Shutdown.wav</AudioFileFullPath>
+    <GUID>7abcecf8-ba0c-49f5-8dae-a965c7a0c06a</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-26 21:23:00</StartPlay>
+    <StartRecord>2010-04-26 21:25:05</StartRecord>
+    <PlayDuration>120</PlayDuration>
+    <RecordDuration>120</RecordDuration>
+    <AudioFile>01 Welcome to Lunar Industries.wav</AudioFile>
+    <AudioFileFullPath>C:\Users\Jesse\Music\iTunes\iTunes Media\Music\Clint Mansell\Moon (Soundtrack from the Motion Picture\01 Welcome to Lunar Industries.wav</AudioFileFullPath>
+    <GUID>37b10321-7608-4965-9b64-750afdd9fccc</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-27 21:18:00</StartPlay>
+    <StartRecord>2010-04-27 21:18:05</StartRecord>
+    <PlayDuration>5</PlayDuration>
+    <RecordDuration>15</RecordDuration>
+    <AudioFile>Windows Shutdown.wav</AudioFile>
+    <AudioFileFullPath>C:\Windows\Media\Windows Shutdown.wav</AudioFileFullPath>
+    <GUID>2cdd3e6a-9182-4309-978a-341896ae8c75</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-27 21:23:00</StartPlay>
+    <StartRecord>2010-04-27 21:25:05</StartRecord>
+    <PlayDuration>120</PlayDuration>
+    <RecordDuration>120</RecordDuration>
+    <AudioFile>01 Welcome to Lunar Industries.wav</AudioFile>
+    <AudioFileFullPath>C:\Users\Jesse\Music\iTunes\iTunes Media\Music\Clint Mansell\Moon (Soundtrack from the Motion Picture\01 Welcome to Lunar Industries.wav</AudioFileFullPath>
+    <GUID>b9f0cd3a-fd62-4823-aa47-a568a8280614</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-28 21:18:00</StartPlay>
+    <StartRecord>2010-04-28 21:18:05</StartRecord>
+    <PlayDuration>5</PlayDuration>
+    <RecordDuration>15</RecordDuration>
+    <AudioFile>Windows Shutdown.wav</AudioFile>
+    <AudioFileFullPath>C:\Windows\Media\Windows Shutdown.wav</AudioFileFullPath>
+    <GUID>59519ae2-2122-4a6a-84fa-990d06c55890</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-28 21:23:00</StartPlay>
+    <StartRecord>2010-04-28 21:25:05</StartRecord>
+    <PlayDuration>120</PlayDuration>
+    <RecordDuration>120</RecordDuration>
+    <AudioFile>01 Welcome to Lunar Industries.wav</AudioFile>
+    <AudioFileFullPath>C:\Users\Jesse\Music\iTunes\iTunes Media\Music\Clint Mansell\Moon (Soundtrack from the Motion Picture\01 Welcome to Lunar Industries.wav</AudioFileFullPath>
+    <GUID>841a5670-4a99-4fe0-92e1-0afd2699fbca</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-29 21:18:00</StartPlay>
+    <StartRecord>2010-04-29 21:18:05</StartRecord>
+    <PlayDuration>5</PlayDuration>
+    <RecordDuration>15</RecordDuration>
+    <AudioFile>Windows Shutdown.wav</AudioFile>
+    <AudioFileFullPath>C:\Windows\Media\Windows Shutdown.wav</AudioFileFullPath>
+    <GUID>989048b6-83c8-43ae-bf8b-77ec38b127a2</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-29 21:23:00</StartPlay>
+    <StartRecord>2010-04-29 21:25:05</StartRecord>
+    <PlayDuration>120</PlayDuration>
+    <RecordDuration>120</RecordDuration>
+    <AudioFile>01 Welcome to Lunar Industries.wav</AudioFile>
+    <AudioFileFullPath>C:\Users\Jesse\Music\iTunes\iTunes Media\Music\Clint Mansell\Moon (Soundtrack from the Motion Picture\01 Welcome to Lunar Industries.wav</AudioFileFullPath>
+    <GUID>7a93114a-e8c7-4500-98da-3edfbe0dc274</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-19 21:18:00</StartPlay>
+    <StartRecord>2010-04-19 21:18:05</StartRecord>
+    <PlayDuration>5</PlayDuration>
+    <RecordDuration>15</RecordDuration>
+    <AudioFile>Windows Shutdown.wav</AudioFile>
+    <AudioFileFullPath>C:\Windows\Media\Windows Shutdown.wav</AudioFileFullPath>
+    <GUID>e799a3f2-a928-4d50-b559-d0406f9656d5</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-19 21:23:00</StartPlay>
+    <StartRecord>2010-04-19 21:25:05</StartRecord>
+    <PlayDuration>120</PlayDuration>
+    <RecordDuration>120</RecordDuration>
+    <AudioFile>01 Welcome to Lunar Industries.wav</AudioFile>
+    <AudioFileFullPath>C:\Users\Jesse\Music\iTunes\iTunes Media\Music\Clint Mansell\Moon (Soundtrack from the Motion Picture\01 Welcome to Lunar Industries.wav</AudioFileFullPath>
+    <GUID>206f15fa-2810-46e7-859b-113f9484f30c</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-20 21:18:00</StartPlay>
+    <StartRecord>2010-04-20 21:18:05</StartRecord>
+    <PlayDuration>5</PlayDuration>
+    <RecordDuration>15</RecordDuration>
+    <AudioFile>Windows Shutdown.wav</AudioFile>
+    <AudioFileFullPath>C:\Windows\Media\Windows Shutdown.wav</AudioFileFullPath>
+    <GUID>e1f80735-a57c-4684-a981-b1f62cecc4ea</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-20 21:23:00</StartPlay>
+    <StartRecord>2010-04-20 21:25:05</StartRecord>
+    <PlayDuration>120</PlayDuration>
+    <RecordDuration>120</RecordDuration>
+    <AudioFile>01 Welcome to Lunar Industries.wav</AudioFile>
+    <AudioFileFullPath>C:\Users\Jesse\Music\iTunes\iTunes Media\Music\Clint Mansell\Moon (Soundtrack from the Motion Picture\01 Welcome to Lunar Industries.wav</AudioFileFullPath>
+    <GUID>412bf815-8903-48e9-a2f1-5dbf33ea5182</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-21 21:18:00</StartPlay>
+    <StartRecord>2010-04-21 21:18:05</StartRecord>
+    <PlayDuration>5</PlayDuration>
+    <RecordDuration>15</RecordDuration>
+    <AudioFile>Windows Shutdown.wav</AudioFile>
+    <AudioFileFullPath>C:\Windows\Media\Windows Shutdown.wav</AudioFileFullPath>
+    <GUID>56cbd827-638b-4c5a-bfcc-5a5dba53f3ea</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-21 21:23:00</StartPlay>
+    <StartRecord>2010-04-21 21:25:05</StartRecord>
+    <PlayDuration>120</PlayDuration>
+    <RecordDuration>120</RecordDuration>
+    <AudioFile>01 Welcome to Lunar Industries.wav</AudioFile>
+    <AudioFileFullPath>C:\Users\Jesse\Music\iTunes\iTunes Media\Music\Clint Mansell\Moon (Soundtrack from the Motion Picture\01 Welcome to Lunar Industries.wav</AudioFileFullPath>
+    <GUID>81afd07a-fff0-4df3-9cc1-115ec681b3e9</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-22 21:18:00</StartPlay>
+    <StartRecord>2010-04-22 21:18:05</StartRecord>
+    <PlayDuration>5</PlayDuration>
+    <RecordDuration>15</RecordDuration>
+    <AudioFile>Windows Shutdown.wav</AudioFile>
+    <AudioFileFullPath>C:\Windows\Media\Windows Shutdown.wav</AudioFileFullPath>
+    <GUID>4a3734a3-ef45-4468-8298-fdd087952956</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-22 21:23:00</StartPlay>
+    <StartRecord>2010-04-22 21:25:05</StartRecord>
+    <PlayDuration>120</PlayDuration>
+    <RecordDuration>120</RecordDuration>
+    <AudioFile>01 Welcome to Lunar Industries.wav</AudioFile>
+    <AudioFileFullPath>C:\Users\Jesse\Music\iTunes\iTunes Media\Music\Clint Mansell\Moon (Soundtrack from the Motion Picture\01 Welcome to Lunar Industries.wav</AudioFileFullPath>
+    <GUID>c4408992-baf6-4f84-98c3-9ed2e7838be4</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-23 21:18:00</StartPlay>
+    <StartRecord>2010-04-23 21:18:05</StartRecord>
+    <PlayDuration>5</PlayDuration>
+    <RecordDuration>15</RecordDuration>
+    <AudioFile>Windows Shutdown.wav</AudioFile>
+    <AudioFileFullPath>C:\Windows\Media\Windows Shutdown.wav</AudioFileFullPath>
+    <GUID>3528b650-16ab-4ba0-a4a6-734a03d82678</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-23 21:23:00</StartPlay>
+    <StartRecord>2010-04-23 21:25:05</StartRecord>
+    <PlayDuration>120</PlayDuration>
+    <RecordDuration>120</RecordDuration>
+    <AudioFile>01 Welcome to Lunar Industries.wav</AudioFile>
+    <AudioFileFullPath>C:\Users\Jesse\Music\iTunes\iTunes Media\Music\Clint Mansell\Moon (Soundtrack from the Motion Picture\01 Welcome to Lunar Industries.wav</AudioFileFullPath>
+    <GUID>e51e2094-dce8-4b70-ac63-6a5ac2750dd9</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-30 21:18:00</StartPlay>
+    <StartRecord>2010-04-30 21:18:05</StartRecord>
+    <PlayDuration>5</PlayDuration>
+    <RecordDuration>15</RecordDuration>
+    <AudioFile>Windows Shutdown.wav</AudioFile>
+    <AudioFileFullPath>C:\Windows\Media\Windows Shutdown.wav</AudioFileFullPath>
+    <GUID>9afc253d-f7c5-42ab-82c0-1cc5f0d296dc</GUID>
+  </ScheduledEvent>
+  <ScheduledEvent>
+    <StartPlay>2010-04-30 21:23:00</StartPlay>
+    <StartRecord>2010-04-30 21:25:05</StartRecord>
+    <PlayDuration>120</PlayDuration>
+    <RecordDuration>120</RecordDuration>
+    <AudioFile>01 Welcome to Lunar Industries.wav</AudioFile>
+    <AudioFileFullPath>C:\Users\Jesse\Music\iTunes\iTunes Media\Music\Clint Mansell\Moon (Soundtrack from the Motion Picture\01 Welcome to Lunar Industries.wav</AudioFileFullPath>
+    <GUID>bd5dc74c-90b5-4411-8418-71969a4e98d4</GUID>
+  </ScheduledEvent>
+</EventsList>
