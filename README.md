@@ -1,6 +1,5 @@
 # Hoot-Scheduler
-
-A .NET WinForms application for scheduling audio events (playback, record)
+A .NET WinForms application for scheduling audio events - school project, 2010
 
 This was a school project from 2010
 
